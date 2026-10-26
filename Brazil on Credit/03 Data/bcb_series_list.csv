@@ -1,0 +1,26 @@
+column,sgs_code,title
+selic_pct,4189,Taxa de juros - Selic acumulada no mes anualizada base 252
+ipca_12m_pct,13522,IPCA - variacao acumulada em 12 meses
+ipca_food_monthly_pct,1635,IPCA - Alimentacao e bebidas - variacao mensal
+rate_pf_free_total_pct,20740,Taxa media de juros com recursos livres - Pessoas fisicas - Total
+rate_overdraft_pct,20741,Taxa media de juros com recursos livres - Pessoas fisicas - Cheque especial
+rate_personal_nonpayroll_pct,20742,Taxa media de juros com recursos livres - Pessoas fisicas - Credito pessoal nao consignado
+rate_payroll_loan_pct,20747,Taxa media de juros com recursos livres - Pessoas fisicas - Credito pessoal consignado total
+rate_card_revolving_pct,22022,Taxa media de juros com recursos livres - Pessoas fisicas - Cartao de credito rotativo
+rate_card_instalment_pct,22023,Taxa media de juros com recursos livres - Pessoas fisicas - Cartao de credito parcelado
+npl_pf_total_pct,21084,Inadimplencia da carteira de credito - Pessoas fisicas - Total
+npl_pf_free_pct,21112,Inadimplencia da carteira de credito com recursos livres - Pessoas fisicas - Total
+npl_card_revolving_pct,21127,Inadimplencia com recursos livres - Pessoas fisicas - Cartao de credito rotativo
+npl_card_total_pct,21129,Inadimplencia com recursos livres - Pessoas fisicas - Cartao de credito total
+debt_service_pct_income,29034,Comprometimento de renda das familias com o servico da divida com o SFN
+debt_service_ex_housing_pct,29035,Comprometimento de renda das familias exceto credito habitacional
+debt_pct_income,29037,Endividamento das familias com o SFN em relacao a renda acumulada dos ultimos 12 meses
+debt_ex_housing_pct_income,29038,Endividamento das familias exceto credito habitacional
+unemployment_pct,24369,Taxa de desocupacao PNAD Continua (IBGE)
+credit_stock_pf_brl_mn,20541,Saldo da carteira de credito - Pessoas fisicas - Total
+card_spot_balance_brl_mn,20589,Saldo com recursos livres - Pessoas fisicas - Cartao de credito a vista
+card_total_balance_brl_mn,20590,Saldo com recursos livres - Pessoas fisicas - Cartao de credito total
+new_loans_pf_brl_mn,20633,Concessoes de credito - Pessoas fisicas - Total
+gross_gov_debt_pct_gdp,13762,Divida bruta do governo geral (% PIB)
+net_public_debt_pct_gdp,4513,Divida liquida do setor publico (% PIB)
+brl_per_usd,3698,Taxa de cambio - Dolar americano (venda) - media mensal

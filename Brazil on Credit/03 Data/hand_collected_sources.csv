@@ -1,0 +1,56 @@
+key,value,unit,description,source,url
+r2_2026_lula_pct,51.79,%,Lula share of valid votes runoff 25 Oct 2026,TSE via The Rio Times (26 Oct 2026),https://www.riotimesonline.com/brazil-election-what-now-lula-wins-2026/
+r2_2026_flavio_pct,48.21,%,Flavio Bolsonaro share runoff 2026,TSE via The Rio Times (26 Oct 2026),https://www.riotimesonline.com/brazil-election-what-now-lula-wins-2026/
+r2_2026_lula_votes,64256232,votes,Lula votes runoff 2026,TSE via The Rio Times,https://www.riotimesonline.com/brazil-election-results-2026/
+r2_2026_flavio_votes,59826041,votes,Flavio votes runoff 2026,TSE via The Rio Times,https://www.riotimesonline.com/brazil-election-results-2026/
+r2_2026_turnout,80.78,%,Runoff turnout 2026,TSE via The Rio Times,https://www.riotimesonline.com/brazil-election-results-2026/
+r2_2026_poll_flavio,51.0,%,Runoff poll average for Flavio (45 polls),The Rio Times (26 Oct 2026),https://www.riotimesonline.com/brazil-election-what-now-lula-wins-2026/
+r1_2026_flavio_pct,47.03,%,Flavio first round 4 Oct 2026,TSE (5 Oct 2026),https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica
+r1_2026_lula_pct,45.16,%,Lula first round 2026,TSE (5 Oct 2026),https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica
+r1_2026_cury_pct,2.89,%,Augusto Cury first round,The Rio Times (5 Oct 2026),https://www.riotimesonline.com/brazil-election-first-round-state-results-2026
+r1_2026_santos_pct,2.24,%,Renan Santos first round,The Rio Times (5 Oct 2026),https://www.riotimesonline.com/brazil-election-first-round-state-results-2026
+r1_2026_caiado_pct,2.18,%,Ronaldo Caiado first round,The Rio Times (5 Oct 2026),https://www.riotimesonline.com/brazil-election-first-round-state-results-2026
+r1_2026_zema_pct,0.27,%,Romeu Zema first round,The Rio Times (5 Oct 2026),https://www.riotimesonline.com/brazil-election-first-round-state-results-2026
+r2_2022_lula_pct,50.90,%,Lula runoff 30 Oct 2022,Wikipedia (2022 Brazilian general election),https://en.wikipedia.org/wiki/2022_Brazilian_general_election
+r2_2022_bolsonaro_pct,49.10,%,Jair Bolsonaro runoff 2022,Wikipedia (2022 Brazilian general election),https://en.wikipedia.org/wiki/2022_Brazilian_general_election
+pl_seats_2026,121,seats,PL seats in Chamber after 2026 election (99 in 2022),The Rio Times (26 Oct 2026),https://www.riotimesonline.com/brazil-election-what-now-lula-wins-2026/
+cnc_in_debt,82.0,%,Families in debt July 2026 (record),CNC Peic via The Rio Times (27 Aug 2026),https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/
+cnc_arrears,29.8,%,Families in arrears July 2026,CNC Peic via The Rio Times,https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/
+cnc_low_in_debt,84.9,%,Families up to 3 minimum wages in debt,CNC Peic via The Rio Times,https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/
+cnc_high_in_debt,72.0,%,Families above 10 minimum wages in debt,CNC Peic via The Rio Times,https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/
+cnc_low_arrears,38.5,%,Arrears up to 3 minimum wages,CNC Peic via The Rio Times,https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/
+cnc_high_arrears,15.1,%,Arrears above 10 minimum wages,CNC Peic via The Rio Times,https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/
+cnc_card_share,85.3,%,Families in debt citing credit cards,CNC Peic via The Rio Times,https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/
+cnc_store_share,16.1,%,Citing store instalment plans,CNC Peic via The Rio Times,https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/
+cnc_personal_share,13.0,%,Citing personal loans,CNC Peic via The Rio Times,https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/
+cnc_car_share,9.0,%,Citing car finance,CNC Peic via The Rio Times,https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/
+min_wage_2026,1621,BRL,Minimum wage 2026,The Rio Times (27 Aug 2026),https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/
+serasa_defaulters,83.98,million,People in default August 2026 (Serasa),The Rio Times (27 Sep 2026),https://www.riotimesonline.com/brazil-old-household-debts-treasury-purchase-2026/
+serasa_overdue_brl_bn,586.4,BRL bn,Overdue debts July 2026,The Rio Times (27 Sep 2026),https://www.riotimesonline.com/brazil-old-household-debts-treasury-purchase-2026/
+desenrola3_stock,300,BRL bn,Eligible old household debt stock,The Rio Times (27 Sep 2026),https://www.riotimesonline.com/brazil-old-household-debts-treasury-purchase-2026/
+desenrola3_target,150,BRL bn,Face value targeted for purchase,The Rio Times (27 Sep 2026),https://www.riotimesonline.com/brazil-old-household-debts-treasury-purchase-2026/
+desenrola3_cost,15,BRL bn,Expected cost at 90% discount (cap),The Rio Times (27 Sep 2026),https://www.riotimesonline.com/brazil-old-household-debts-treasury-purchase-2026/
+bolsa_rise_cost,22,BRL bn,15% Bolsa Familia rise cost,The Rio Times (27 Sep 2026),https://www.riotimesonline.com/brazil-old-household-debts-treasury-purchase-2026/
+bet_ban_tax_loss,5.3,BRL bn,2027 tax revenue lost from betting ban,The Rio Times (27 Sep 2026),https://www.riotimesonline.com/brazil-old-household-debts-treasury-purchase-2026/
+desenrola1_renegotiated,53,BRL bn,First Desenrola renegotiated (about 15 million people),The Rio Times (27 Sep 2026),https://www.riotimesonline.com/brazil-old-household-debts-treasury-purchase-2026/
+novo_desenrola_renegotiated,28.37,BRL bn,Novo Desenrola renegotiated 2026,The Rio Times (27 Sep 2026),https://www.riotimesonline.com/brazil-old-household-debts-treasury-purchase-2026/
+novo_desenrola_late,30.34,%,Novo Desenrola instalment deals behind on payments in September (O Globo),The Rio Times (27 Sep 2026),https://www.riotimesonline.com/brazil-old-household-debts-treasury-purchase-2026/
+bets_losses_2025,62,BRL bn,Household net losses to online betting in 2025,Agencia Brasil (28 Sep 2026),https://agenciabrasil.ebc.com.br/en/politica/noticia/2026-09/online-gambling-drives-brazilians-debt-addiction
+abecs_instalment_share,42.7,%,Share of credit card purchases paid in instalments,Abecs via Enfoque MS (19 Aug 2026),https://www.enfoquems.com.br/credito-para-pagar-comida-cresce-no-brasil-e-acende-alerta-sobre-endividamento/
+ifood_instalment_orders,1.3,million,iFood orders paid in instalments in Dec and Jan,Enfoque MS (19 Aug 2026),https://www.enfoquems.com.br/credito-para-pagar-comida-cresce-no-brasil-e-acende-alerta-sobre-endividamento/
+revolving_cap,100,%,Revolving card interest and charges capped at 100% of the original debt from Jan 2024,Monitor Mercantil,https://monitormercantil.com.br/bc-regulamenta-lei-que-limita-juros-do-rotativo-do-cartao-a-100/
+budget_2027_primary_target,0.5,% of GDP,2027 budget primary surplus target,The Rio Times (26 Oct 2026),https://www.riotimesonline.com/brazil-election-what-now-lula-wins-2026/
+brl_close_oct23,4.9654,BRL per USD,Real close Friday 23 Oct 2026,The Rio Times (26 Oct 2026),https://www.riotimesonline.com/brazil-election-what-now-lula-wins-2026/
+ibov_close_oct23,205083,points,Ibovespa close 23 Oct 2026,The Rio Times (26 Oct 2026),https://www.riotimesonline.com/brazil-election-what-now-lula-wins-2026/
+cme_usd_move,10,%,Dollar futures against the real on CME Sunday night,The Rio Times (25 Oct 2026),https://www.riotimesonline.com/brazil-real-falls-after-lula-runoff-win/
+tokyo_ibov_etf_move,-11,%,Tokyo listed Ibovespa ETF at Monday open,The Rio Times (25 Oct 2026),https://www.riotimesonline.com/brazil-real-falls-after-lula-runoff-win/
+focus_ipca_2026,5.22,%,Focus survey 2026 inflation,The Rio Times (26 Oct 2026),https://www.riotimesonline.com/brazil-election-what-now-lula-wins-2026/
+tarifa_zero_cost,16,BRL bn,Free weekend public transport estimated cost per year (Jilmar Tatto),Gazeta do Povo (16 Oct 2026),https://www.gazetadopovo.com.br/eleicoes/2026/lula-pt-tarifa-zero-eleicao/
+prisma_2026_primary,-53.05,BRL bn,Market projection of the 2026 primary result (Prisma Fiscal 15 Oct),Gazeta do Povo (16 Oct 2026),https://www.gazetadopovo.com.br/eleicoes/2026/lula-pt-tarifa-zero-eleicao/
+ir_exempt_threshold,5000,BRL per month,Income tax exemption threshold from 1 Jan 2026 (Law 15.270),Exame (24 Oct 2026),https://exame.com/brasil/lula-x-flavio-bolsonaro-o-que-cada-um-propoe-para-imposto-de-renda-e-iva
+min_tax_threshold,600000,BRL per year,Minimum tax applies to income above this (10% from R$1.2m),Exame (24 Oct 2026),https://exame.com/brasil/lula-x-flavio-bolsonaro-o-que-cada-um-propoe-para-imposto-de-renda-e-iva
+iva_rate_estimate,27.91,%,Comite Gestor estimate of combined CBS and IBS rate (ceiling 26.5%),Exame (24 Oct 2026),https://exame.com/brasil/lula-x-flavio-bolsonaro-o-que-cada-um-propoe-para-imposto-de-renda-e-iva
+approval_atlas_mar26,45.9,%,Lula job approval AtlasIntel/Bloomberg March 2026 (53.5% disapprove),The Rio Times (Apr 2026),https://www.riotimesonline.com/lula-government-2026-complete-guide/
+us_tariff_2025,50,%,US tariff on Brazil from 30 Jul 2025 (10% base plus 40%),Wikipedia (Brazil United States diplomatic dispute),https://en.wikipedia.org/wiki/2025%E2%80%932026_Brazil%E2%80%93United_States_diplomatic_dispute
+us_tariff_301,25,%,Section 301 tariff on certain Brazilian goods announced 15 Jul 2026,USTR (15 Jul 2026),https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-section-301-action-brazils-unreasonable-acts-policies-and-practices
+us_demands,21,demands,US list of demands to lift the 2025 tariff (cut to 14 in Jan 2026; both rejected),Wikipedia (Brazil United States diplomatic dispute),https://en.wikipedia.org/wiki/2025%E2%80%932026_Brazil%E2%80%93United_States_diplomatic_dispute

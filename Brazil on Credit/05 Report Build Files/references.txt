@@ -1,0 +1,24 @@
+AB1|Agência Brasil (2026), Online gambling drives Brazilians into debt, addiction, 28 September 2026.|https://agenciabrasil.ebc.com.br/en/politica/noticia/2026-09/online-gambling-drives-brazilians-debt-addiction
+AJ1|Al Jazeera (2026), Flavio Bolsonaro faces corruption probe weeks before Brazil election, 11 September 2026.|https://aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election
+EM1|Martins, G. (2025), Supermercados passam a vender alimentos com pagamento parcelado no cartão, Estado de Minas, 18 December 2025.|https://www.em.com.br/emfoco/2025/12/18/supermercados-passam-a-vender-alimentos-com-pagamento-parcelado-no-cartao-ampliando-o-uso-do-credito-no-consumo-basico-e-revelando-mudancas-profundas-no-comportamento-financeiro-das-familias-brasilei/
+EMS1|Enfoque MS (2026), Crédito para pagar comida cresce no Brasil e acende alerta sobre endividamento, 19 August 2026, citing Abecs and the Banco Central.|https://www.enfoquems.com.br/credito-para-pagar-comida-cresce-no-brasil-e-acende-alerta-sobre-endividamento/
+EX1|Exame (2026), Plano de governo de Lula, o que o petista propõe para um 4º mandato, 23 October 2026.|https://exame.com/brasil/plano-de-governo-de-lula-o-que-o-petista-propoe-para-um-4o-mandato/
+EX2|Guedes, D. (2026), Lula x Flávio Bolsonaro, o que cada um propõe para imposto de renda e IVA, Exame, 24 October 2026.|https://exame.com/brasil/lula-x-flavio-bolsonaro-o-que-cada-um-propoe-para-imposto-de-renda-e-iva
+GP1|Gazeta do Povo (2026), Em modo franco atirador, PT propõe passe livre irrestrito, 16 October 2026.|https://www.gazetadopovo.com.br/eleicoes/2026/lula-pt-tarifa-zero-eleicao/
+LULA1|Wikipedia, Luiz Inácio Lula da Silva, accessed 26 October 2026.|https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+MM1|Monitor Mercantil, BC regulamenta lei que limita juros do rotativo do cartão a 100%.|https://monitormercantil.com.br/bc-regulamenta-lei-que-limita-juros-do-rotativo-do-cartao-a-100/
+RT1|Santos, R. S. (2026), Brazil's poorest households carry record debt into a weaker 2027, The Rio Times, 27 August 2026, citing the CNC Peic survey.|https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/
+RT2|The Rio Times (2026), Brazil election results 2026, runoff live count, 25 October 2026.|https://www.riotimesonline.com/brazil-election-results-2026/
+RT3|The Rio Times (2026), Brazil election, what happens now after Lula win, 26 October 2026.|https://www.riotimesonline.com/brazil-election-what-now-lula-wins-2026/
+RT4|The Rio Times (2026), Brazil's real falls 9% after Lula win, 25 October 2026.|https://www.riotimesonline.com/brazil-real-falls-after-lula-runoff-win/
+RT5|Silva, C. (2026), Brazil's household debt buyout pushes unbudgeted costs to US$8.2 billion, The Rio Times, 27 September 2026.|https://www.riotimesonline.com/brazil-old-household-debts-treasury-purchase-2026/
+RT6|The Rio Times (2026), Flávio led 15 states, Lula 12 in Brazil's first round, 5 October 2026.|https://www.riotimesonline.com/brazil-election-first-round-state-results-2026
+RT7|The Rio Times (2026), Trump questions Lula's 51.79% win in Brazil, 26 October 2026.|https://www.riotimesonline.com/trump-questions-lula-win-brazil-biden-playbook-2026/
+TSE1|Tribunal Superior Eleitoral (2026), Flávio Bolsonaro e Lula vão disputar o 2º turno para a Presidência da República, 5 October 2026.|https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica
+USTR1|Office of the US Trade Representative (2026), USTR Section 301 action on Brazil's unreasonable acts, policies and practices, 15 July 2026.|https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-section-301-action-brazils-unreasonable-acts-policies-and-practices
+WIKI1|Wikipedia, 2026 Brazilian general election, accessed 26 October 2026.|https://en.wikipedia.org/wiki/2026_Brazilian_general_election
+WIKI2|Wikipedia, 2025 to 2026 Brazil United States diplomatic dispute, accessed 26 October 2026.|https://en.wikipedia.org/wiki/2025%E2%80%932026_Brazil%E2%80%93United_States_diplomatic_dispute
+DATA1|Banco Central do Brasil, SGS time series (household debt, debt service, delinquency, interest rates, Selic, IPCA, unemployment, public debt, exchange rate), retrieved 26 October 2026.|https://www3.bcb.gov.br/sgspub/
+DATA2|IMF World Economic Outlook (October 2026), Brazil, retrieved 26 October 2026 through the OpenBB platform.|https://www.imf.org/en/Publications/WEO
+DATA3|Nasdaq daily closing prices for the iShares MSCI Brazil ETF (EWZ), retrieved 26 October 2026 through the OpenBB platform.|https://www.nasdaq.com
+DATA4|IMF International Trade in Goods by partner country (IMTS), Brazil exports, retrieved 26 October 2026 through the OpenBB platform.|https://data.imf.org
