@@ -1,0 +1,84 @@
+key,value,unit,source,url
+meta_common_offering_usd_bn,25,"US$ bn Class A common via forward sale, upsized from 22.5",,https://rallies.ai/news/meta-upsizes-common-stock-offering-to-25-billion-prices-shares-at-625-each-f8b9e987db24df0d
+meta_common_price,625,US$ per share,,https://rallies.ai/news/meta-upsizes-common-stock-offering-to-25-billion-prices-shares-at-625-each-f8b9e987db24df0d
+meta_preferred_usd_bn,12.5,"US$ bn mandatory convertible preferred, converting around Aug 2029",,https://financefeeds.com/meta-stock-635-after-35-billion-stock-offering-nvidia-amd-broadcom-bull-850-bear-580/
+meta_atm_usd_bn,60,"US$ bn at the market programme of Class C shares, not before Q1 2027",,https://financefeeds.com/meta-stock-635-after-35-billion-stock-offering-nvidia-amd-broadcom-bull-850-bear-580/
+meta_shares_out_bn,2.56,bn shares outstanding,,https://financefeeds.com/meta-stock-635-after-35-billion-stock-offering-nvidia-amd-broadcom-bull-850-bear-580/
+meta_chipmaker_indication_usd_bn,5,US$ bn non binding indications from Nvidia AMD and Broadcom,,https://financefeeds.com/meta-stock-635-after-35-billion-stock-offering-nvidia-amd-broadcom-bull-850-bear-580/
+meta_capex_2026_low,135,US$ bn 2026 capex guidance,,https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html
+meta_capex_2026_high,145,US$ bn,,https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html
+meta_q3_26_capex_incl_leases,34.91,US$ bn,,https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html
+meta_q3_26_fcf,-2.12,US$ bn,,https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html
+meta_q3_26_legal_charge,9.89,US$ bn,,https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html
+meta_cash_q3_26,82.45,US$ bn cash and marketable securities,,https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html
+meta_ltdebt_q3_26,80.92,US$ bn long term debt,,https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html
+meta_ltdebt_dec25,58.74,US$ bn,,https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html
+meta_buybacks_9m_26,0,US$ bn,,https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html
+meta_q3_25_fcf,10.62,US$ bn,,https://www.sec.gov/Archives/edgar/data/1326801/000162828025047114/meta-09302025xexhibit991.htm
+meta_q3_25_capex,19.37,US$ bn,,https://www.sec.gov/Archives/edgar/data/1326801/000162828025047114/meta-09302025xexhibit991.htm
+meta_headcount_2021q4,71970,employees,Meta 10-K 2021,
+meta_headcount_2022q3,87314,employees,Meta Q3 2022 results,
+meta_headcount_2022q4,86482,employees,Meta 10-K 2022,
+meta_headcount_2023q4,67317,employees,Meta 10-K 2023,
+meta_headcount_2024q4,74067,employees,Meta 10-K 2024,
+meta_headcount_2025q3,78450,employees,,https://www.sec.gov/Archives/edgar/data/1326801/000162828025047114/meta-09302025xexhibit991.htm
+meta_headcount_2026q3,66775,employees,,https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html
+meta_cut_nov22,11000,jobs,,https://www.semafor.com/article/03/14/2023/meta-announces-another-10000-layoffs
+meta_cut_mar23,10000,jobs,,https://www.semafor.com/article/03/14/2023/meta-announces-another-10000-layoffs
+meta_cut_mar23_openroles,5000,open roles closed,,https://www.semafor.com/article/03/14/2023/meta-announces-another-10000-layoffs
+meta_cut_apr26,8000,jobs about 10% of staff,,https://siliconangle.com/2026/04/23/meta-cuts-10-staff-cancels-6000-open-roles-ai-efficiency-push/
+meta_cut_apr26_openroles,6000,open roles cancelled,,https://siliconangle.com/2026/04/23/meta-cuts-10-staff-cancels-6000-open-roles-ai-efficiency-push/
+meta_cut_jan26,1500,Reality Labs jobs,,https://siliconangle.com/2026/04/23/meta-cuts-10-staff-cancels-6000-open-roles-ai-efficiency-push/
+meta_cut_mar26,700,jobs,,https://siliconangle.com/2026/04/23/meta-cuts-10-staff-cancels-6000-open-roles-ai-efficiency-push/
+meta_severance_base_weeks,16,weeks of base pay plus 2 per year of service (US),,https://siliconangle.com/2026/04/23/meta-cuts-10-staff-cancels-6000-open-roles-ai-efficiency-push/
+meta_median_pay_2025,388200,US$ median employee total compensation,,https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm
+msft_buyout_eligible,60000,employees,,https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce
+msft_prior_retirement_uptake,0.3,share of eligible who accepted the earlier voluntary retirement offer,,https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce
+msft_retirement_charge_usd_bn,0.9,US$ bn one time charge,,https://finance.yahoo.com/sectors/technology/articles/microsoft-cfo-flags-workforce-cuts-163508434.html
+msft_headcount_2019,144000,employees June,Microsoft 10-K,
+msft_headcount_2020,163000,employees,Microsoft 10-K,
+msft_headcount_2021,181000,employees,Microsoft 10-K,
+msft_headcount_2022,221000,employees,Microsoft 10-K,
+msft_headcount_2023,221000,employees,Microsoft 10-K,
+msft_headcount_2024,228000,employees,Microsoft 10-K,
+msft_headcount_2025,228000,employees,Microsoft 10-K,https://www.tweaktown.com/news/114221/microsoft-employee-headcount-confirmed-reduced-by-5000-first-time-in-10-years/index.html
+msft_headcount_2026,223000,employees,Microsoft 10-K 2026,https://www.tweaktown.com/news/114221/microsoft-employee-headcount-confirmed-reduced-by-5000-first-time-in-10-years/index.html
+msft_cuts_2025,15000,jobs May and July 2025,,https://techrepublic.com/article/news-microsoft-layoffs-satya-nadella
+msft_cuts_jul26,4800,jobs,,https://www.axios.com/local/seattle/2026/10/26/microsoft-voluntary-buyouts-ai-job-cuts-2026
+msft_median_pay_fy25,200972,US$ median employee total compensation,,https://www.sec.gov/Archives/edgar/data/789019/000119312525245150/d908201ddef14a.htm
+msft_ai_run_rate_usd_bn,37,US$ bn annual AI revenue run rate (Mar 2026 quarter),,https://finance.yahoo.com/sectors/technology/articles/microsoft-cfo-flags-workforce-cuts-163508434.html
+bcs_cuts_2026,5000,jobs by end 2026,,https://www.itv.com/news/2026-10-22/barclays-to-cut-5000-jobs-this-year-as-ai-makes-work-more-efficient
+bcs_cuts_h1_26,1000,jobs,,https://www.itv.com/news/2026-10-22/barclays-to-cut-5000-jobs-this-year-as-ai-makes-work-more-efficient
+bcs_fte_2025,93000,full time equivalent,,https://www.sec.gov/Archives/edgar/data/0000312069/000031206926000004/bcs-20251231.htm
+bcs_fte_2024,93000,full time equivalent,,https://www.sec.gov/Archives/edgar/data/0000312069/000031206926000004/bcs-20251231.htm
+bcs_comp_costs_2025_gbp_m,9253,GBP m total compensation costs,,https://www.sec.gov/Archives/edgar/data/0000312069/000031206926000004/bcs-20251231.htm
+bcs_staff_costs_2025_gbp_m,10607,GBP m total staff costs,,https://www.sec.gov/Archives/edgar/data/0000312069/000031206926000004/bcs-20251231.htm
+bcs_struct_cost_2026_gbp_m,600,GBP m structural cost actions in 2026,,https://www.itv.com/news/2026-10-22/barclays-to-cut-5000-jobs-this-year-as-ai-makes-work-more-efficient
+bcs_q3_profit_gbp_bn,2.3,GBP bn pre tax profit Q3 2026,,https://www.itv.com/news/2026-10-22/barclays-to-cut-5000-jobs-this-year-as-ai-makes-work-more-efficient
+bcs_support_share_of_cuts,0.6,share of cuts in support functions including developers,,https://www.businessday.co.za/world/international-companies/2026-10-22-barclays-to-slash-5000-jobs-in-ai-powered-cost-cutting-drive/
+bcs_cuts_2023,5000,jobs,,https://www.euronews.com/2024/01/09/barclays-slashes-5000-jobs-in-2023-in-reshaping-and-efficiency-bid
+chal_ytd26_total,573195,US announced job cuts Jan to Sep 2026,,https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf
+chal_ytd25_total,946426,same period 2025,,https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf
+chal_ytd26_ai,120136,cuts citing AI Jan to Sep 2026,,https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf
+chal_sep26_ai,3961,cuts citing AI Sep 2026,,https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf
+chal_ytd26_tech,165925,technology sector cuts,,https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf
+chal_ytd25_tech,107878,,,https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf
+chal_ytd26_fin,23762,financial sector cuts,,https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf
+chal_ytd25_fin,46386,,,https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf
+chal_ytd26_hiring,210612,announced hiring plans,,https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf
+chal_2025_ai,55000,AI attributed US cuts in 2025 (about 4.5% of all),,https://www.ibtimes.co.uk/ai-layoffs-costly-rehiring-wave-research-1819029
+cm_rehiring_share,0.667,share of firms that made AI cuts now bringing staff back (Careerminds 600 HR leaders Feb 2026),,https://www.ibtimes.co.uk/ai-layoffs-costly-rehiring-wave-research-1819029
+cm_rehired_over_half,0.34,share that rehired over half the roles (more than a third),,https://www.ibtimes.co.uk/ai-layoffs-costly-rehiring-wave-research-1819029
+cm_spent_more,0.309,share that spent more on rehiring than they saved,,https://www.ibtimes.co.uk/ai-layoffs-costly-rehiring-wave-research-1819029
+cm_roughly_even,0.424,share where savings and restaffing roughly cancelled,,https://www.ibtimes.co.uk/ai-layoffs-costly-rehiring-wave-research-1819029
+cm_within_6m,0.52,share that rehired within six months,,https://www.ibtimes.co.uk/ai-layoffs-costly-rehiring-wave-research-1819029
+orgvue_cost_per_dollar,1.27,US$ spent per US$1 saved through workforce reductions,,https://www.ibtimes.co.uk/ai-layoffs-costly-rehiring-wave-research-1819029
+forrester_regret,0.55,share of employers regretting AI layoffs,,https://www.ibtimes.co.uk/ai-layoffs-costly-rehiring-wave-research-1819029
+robert_half_refilled,0.32,share of US hiring managers who refilled a role cut for AI,,https://www.ibtimes.co.uk/ai-layoffs-costly-rehiring-wave-research-1819029
+klarna_headcount_dec24,3500,employees after a 22% fall,,https://www.entrepreneur.com/business-news/klarna-ceo-reverses-course-by-hiring-more-humans-not-ai/491396
+klarna_bot_agents,700,agents claimed replaced,,https://www.entrepreneur.com/business-news/klarna-ceo-reverses-course-by-hiring-more-humans-not-ai/491396
+cba_roles_reversed,45,roles,,https://ia.acs.org.au/article/2025/cba-reverses-ai-driven-job-cuts--admits--error-.html
+stanford_young_decline,13,% relative fall in employment for 22 to 25 year olds in most AI exposed jobs,,https://siepr.stanford.edu/publications/working-paper/canaries-coal-mine-six-facts-about-recent-employment-effects-artificial
+meta_q4_rev_mid,74.5,US$ bn midpoint of Q4 2026 revenue guidance of 73 to 76,,https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html
+meta_legal_settlement_max,18.59,US$ bn maximum payments under the August 2026 state attorneys general agreement,,https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html
+chal_2025_ai_share,4.5,% of all US announced cuts attributed to AI in 2025,,https://www.ibtimes.co.uk/ai-layoffs-costly-rehiring-wave-research-1819029
